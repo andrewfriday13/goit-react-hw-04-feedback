@@ -1,0 +1,5 @@
+.feedback__stat{display: flex;
+    gap: 30px;
+    flex-direction: row;
+    align-items: center;
+  }
